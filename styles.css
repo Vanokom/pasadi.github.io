@@ -1,0 +1,16 @@
+.title {
+    color: white;
+}
+body {
+    background-color: black;
+    display: flex;
+    vertical-align: middle;
+    align-items: center;
+    height: 100vh;
+    border-style: none;
+}
+button {
+    background-color: gray;
+    color: white;
+    border-radius: 3px;
+}
